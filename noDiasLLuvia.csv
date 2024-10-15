@@ -1445,15 +1445,3 @@ CODIGO,CATEGORIA,ESTACIÓN,MUNICIPIO,DEPARTAMENTO,AO,ALTITUD (m),LONGITUD,LATITU
 35260010,PM,Bonanza,Santa Rosalía,Vichada,3,112,"-70,85","5,14","1,1","1,7","3,8","9,2","12,7","14,4","15,1","13,2","10,0","8,9","5,9","2,7","98,7",324,"90,0%"
 35260030,PM,Hato Burrunay,Santa Rosalía,Vichada,3,106,"-70,68","5,35","1,3","1,8","4,1","10,5","15,3","15,3","17,1","14,0","12,1","10,8","7,7","3,6","113,4",349,"96,9%"
 35267030,LM,Santa Maria ,Santa Rosalía,Vichada,3,108,"-70,71","5,27","1,2","1,6","4,0","9,4","13,5","15,6","16,0","13,2","12,4","10,3","6,8","2,8","106,8",328,"91,1%"
-,,,,,,,,,,,,,,,,,,,,,,,
-,AM,Agrometeorológica,,,,,,,,,,,,,,,,,,,,,
-,CO,Climática Ordinaria,,,,,,,,,,,,,,,,,,,,,
-,CP,Climática principal,,,,,,,,,,,,,,,,,,,,,
-,ME,Meteorológica Especial,,,,,,,,,,,,,,,,,,,,,
-,PG,Pluviográfica,,,,,,,,,,,,,,,,,,,,,
-,PM,Pluviométrica,,,,,,,,,,,,,,,,,,,,,
-,SP,Sinóptica Principal,,,,,,,,,,,,,,,,,,,,,
-,SS,Sinóptica Secundaria,,,,,,,,,,,,,,,,,,,,,
-,RS,Radiosonda,,,,,,,,,,,,,,,,,,,,,
-,LG,Limnigráfica,,,,,,,,,,,,,,,,,,,,,
-,LM,Limnimétrica,,,,,,,,,,,,,,,,,,,,,
