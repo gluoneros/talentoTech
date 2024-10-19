@@ -11,3 +11,4 @@ with open('modelo2.pkl', 'rb') as f:
 @app.route('/')
 def home():
     return render_template('index.html')
+
